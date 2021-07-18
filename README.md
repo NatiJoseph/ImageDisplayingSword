@@ -1,1 +1,3 @@
 # ImageDisplayingSword
+Persistence of Vision (POV) refers to the optical illusion that occurs when visual perception of an object does not cease for some time after the rays of light proceeding from it have ceased to enter the eye. The entire film industry is based on POV – this is how a few pictures of a house displayed one after the other can produce a motion film of a running horse.
+In this project we will use POV principals in order to manufacture a product that is able to produce a picture out of a single line of LED’s. We will examine several approaches and use our creativity and own ideas for implementation, using the theoretical principals studied in the fields of computer engineering while creating a high-quality product for the use of adults and kids alike.
